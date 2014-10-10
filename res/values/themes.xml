@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="CustomActionBarTheme"
+           parent="Theme.AppCompat.Light">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+    <!-- ActionBar styles -->
+    <style name="MyActionBar"
+           parent="Theme.AppCompat.Light">
+        <!-- <item name="android:background">@drawable/actionbar_background</item> -->
+        <!-- <item name="android:windowActionBarOverlay">true</item> -->
+    </style>    
+</resources>
